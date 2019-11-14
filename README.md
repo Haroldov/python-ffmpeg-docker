@@ -1,2 +1,3 @@
-# python-ffmpeg-docker
-Repository for creating a container with python and ffmpeg
+# Python-ffmpeg Docker builder
+
+Repository for creating a container with python and ffmpeg in an automated build
